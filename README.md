@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="90" alt="Example of ideal of calm. Citation needed :P" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/250px-Cat_November_2010-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img width="250" alt="Example of ideal of calm. Citation needed :P" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/250px-Cat_November_2010-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
 </p>
 <p align="center"><em>The ideal of calm exists in Sitting-cat.</em></p>
 
